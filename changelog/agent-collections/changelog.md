@@ -10,6 +10,28 @@ Tracks updates to the AGENT COLLECTIONS table in `README.md`.
 
 ---
 
+## [2026-05-20 08:47 PM PKT] Agent Collections Update
+
+| # | Priority | Type  | Action                                                                                          | Status                                                                                                                                                                    |
+|---|----------|-------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | HIGH     | Star  | Update msitarzewski/agency-agents ★ from 101k to 103k                                           | COMPLETE (GitHub page: ~103,000 exact; crosses two k-boundaries; NEW — two-day jump from 101k)                                                                            |
+| 2 | LOW      | Count | msitarzewski/agency-agents agents 144 → 181 (HTML scrape, conf 0.65)                            | INVALID (RECURRING methodological variation; git tree API blocked (403); no commits since April 12; May 19 git-tree run confirmed 144 at conf 0.96 — higher-confidence run takes precedence) |
+| 3 | LOW      | Count | VoltAgent/awesome-claude-code-subagents agents 151 → 144 (HTML scrape, conf 0.82)               | INVALID (RECURRING oscillation 144↔151; no commits since April 20; historical pattern shows repeated 144↔151 flip; no confirmed real change)                              |
+| 4 | LOW      | Sort  | Verify sort order (103k > 20k — stars descending)                                               | COMPLETE (order preserved; RECURRING)                                                                                                                                     |
+
+---
+
+## [2026-05-19 08:50 PM PKT] Agent Collections Update
+
+| # | Priority | Type  | Action                                                                                          | Status                                                                                                                                                                    |
+|---|----------|-------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | HIGH     | Star  | Update msitarzewski/agency-agents ★ from 100k to 101k                                           | COMPLETE (GitHub API: 101,089 exact; crosses k-boundary to 101k; NEW — milestone crossing)                                                                                |
+| 2 | MED      | Count | Update msitarzewski/agency-agents agents from 188 to 144                                        | COMPLETE (README self-declares 144; git tree confirms 144 across 10 category dirs; conf 0.96; no commits since April 12; prior 188 used broader methodology — RECURRING correction) |
+| 3 | LOW      | Count | VoltAgent/awesome-claude-code-subagents agents 151 vs 185 (+34)                                  | INVALID (RECURRING methodological variation; no commits in last 30 days — last commit April 20; 185 vs 151 is within oscillation range 145-189; no confirmed real change)  |
+| 4 | LOW      | Sort  | Verify sort order (101k > 20k — stars descending)                                               | COMPLETE (order preserved; RECURRING)                                                                                                                                     |
+
+---
+
 ## [2026-05-18 08:46 PM PKT] Agent Collections Update
 
 | # | Priority | Type  | Action                                                                                          | Status                                                                                                                                                                    |
